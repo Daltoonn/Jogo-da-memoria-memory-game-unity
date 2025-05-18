@@ -20,3 +20,26 @@ Linguagem C# (C Sharp)
 
 📄 Licença
 Código aberto para uso pessoal. Fique à vontade para reutilizar, modificar ou estudar!
+
+# Memory-game
+
+🧠 Memory Game - Unity
+This is a memory game developed in Unity, using C# scripts. The project was created for educational purposes and is open source so that anyone can study, modify or reuse it in their own projects.
+
+🚀 Features
+Simple and intuitive interface
+
+Classic memory game mechanics
+
+Modular and commented code for easy understanding
+
+💡 Usage
+Feel free to clone or download the project and adapt it to your needs. Ideal for those who are learning Unity or want to create games with simple and fun mechanics.
+
+📂 Technologies used
+Unity Engine
+
+C# language (C Sharp)
+
+📄 License
+Open source for personal use. Feel free to reuse, modify or study!
