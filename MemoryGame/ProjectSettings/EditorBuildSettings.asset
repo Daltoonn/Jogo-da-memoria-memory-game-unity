@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Jogo01.unity
+    guid: f4ab96bfd87618349b23c93278ab4ac9
+  - enabled: 1
+    path: Assets/Scenes/Jogo02.unity
+    guid: 32de77a1a55062a46a7a9cbd67e17f1e
+  - enabled: 1
+    path: Assets/Scenes/Jogo02-n2.unity
+    guid: c508b7e49dc2c2043bd43c457ecfb81f
+  - enabled: 1
+    path: Assets/Scenes/Jogo03.unity
+    guid: f82c26ae9d0d76347be84493fd5f0023
+  - enabled: 1
+    path: Assets/Scenes/Jogo04.unity
+    guid: aa8775d1963110e42b3402ab10ae8db8
+  - enabled: 1
+    path: Assets/Scenes/Jogo05.unity
+    guid: 7a941d12b63623842b6babb71c11660f
+  - enabled: 1
+    path: Assets/Scenes/Jogo05-n2.unity
+    guid: e72b9b337a14eca469d504335e49cf5d
+  - enabled: 1
+    path: Assets/Scenes/Jogo06.unity
+    guid: 21549101de7f7d7468f604956a0d995d
+  - enabled: 1
+    path: Assets/Scenes/Jogo06-n2.unity
+    guid: 333c7c291d13e4d45a48b4c728b35a01
+  - enabled: 1
+    path: Assets/Scenes/Jogo07.unity
+    guid: afd007b7866cd224890ffebfc894ef5f
+  - enabled: 1
+    path: Assets/Scenes/Victoryy.unity
+    guid: d64fe887f2924634483e4afe98707a3e
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 7fd882e1b7f43454baf1cfb289a37b48
+  - enabled: 1
+    path: Assets/Scenes/Derrota.unity
+    guid: 7ce045678d6f9154db0a2c5cc3fd1022
+  - enabled: 1
+    path: Assets/Scenes/VictoryEmpre.unity
+    guid: ea1e8a6891df1d74492980377db0d433
+  - enabled: 1
+    path: Assets/Scenes/DerrotaEmpre.unity
+    guid: d3d1fafeaa5c53845852bdc60cb8a5dc
+  - enabled: 1
+    path: Assets/Scenes/VictoryFinalEmpre.unity
+    guid: dbce37cdef8b718468d45ca416b9c83e
+  - enabled: 1
+    path: Assets/Scenes/VitoriaAterro.unity
+    guid: 5e11af87e80341641b06d264a8a7a5e4
+  m_configObjects: {}
